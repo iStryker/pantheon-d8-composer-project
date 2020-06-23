@@ -1,0 +1,14 @@
+uuid: e7a81edf-8feb-4e36-ac15-700c1207275c
+langcode: en
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: vymHlgJy26BuI5GGj9-IXjwR3dRC5C0tij4BpWJnoqw
+id: feedback
+label: 'Website feedback'
+recipients:
+  - tyler.struyk@gmail.com
+reply: ''
+weight: 0
+message: 'Your message has been sent.'
+redirect: ''
